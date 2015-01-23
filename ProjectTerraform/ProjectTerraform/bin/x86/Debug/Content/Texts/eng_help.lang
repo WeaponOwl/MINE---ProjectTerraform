@@ -1,0 +1,56 @@
+﻿The Near Space
+	Hole Near Space divided in 64 sectors. The close a sector to the center, the more stars it has. Only suitable for life planets systems mapped.
+Stars
+	Stars differ in brightness and temperature. The greater brightness the greater mass of the star and the larger distance between star and planet. The greater temperature of the star – the greater average temperature of the planet.
+Planets
+	Every star has one planet at least. Main planet characteristic – its size.
+	Size has an influence on any other parameter. The bigger the planet - the greater temperature, the greater atmosphere – the lesser danger from meteorites. Second important characteristic – a distance to the star – it has an influence on average temperature.
+Orbit
+	All management and control is accomplished from the Orbit, where the Main Station located.
+	You are going to manage all bases on the planet and build new. Your objective is to fulfill series of requirements for given planet. 
+Missions
+	There are objectives for every planet. They are credits, population, science, climate, safety or The Council high favor.
+	Credits – sum of credits on every base. Population – summary population of the planet. Science – depends on number of people, involved in science research. Climate – average temperature and pressure on the surface. Safety – index, which increases with time and decreases during meteorite shower. 
+        Favor – will increase when you fulfill The Council orders. 
+Orders 
+	From time to time The Council will send you requests. If you dispatch required resources in time – The Council favor will increase.
+Credit flows
+      You can transfer credits amongst bases, for that open Credit Flows window. 
+Bases
+	There is limited space for every base. Within that limits Command Center located - main building, in case you lost it your base will be destroyed. Also, there is one builder for each base – a drone, which constructs buildings. You are able to build only in the boundaries of your base.
+Resources
+	There are 32 types of resources. The main – energy – produced by generators and consumed by every building. Credits – currency – necessary to construct buildings, to pay for scientists work and to trade on the exchange. Food and water – necessary for people existence. The rest are necessary for production.   
+Trade     
+	Commerce – the only way to get credits. Become available after Exchange construction. You can trade everything from people and energy.
+Science
+	Science – a way to improve operation of the colony. Become available after Laboratory construction. People are necessary to realize science research. Science make way to orbit stations. 
+
+Orbital stations 
+       After research have influence on every process on the planet.
+People
+	Without people you won’t be able to accomplish your mission. People consume food and water. Without food starvation will begin and people start to leave the planet. Also, requires accommodation.
+
+Ships
+	In order to let trade and settlers ships visit your colony you need to build Spaceport and Parking Lot.
+Buildings
+	All building belong to several types.
+	Control – accelerate processes on the base.
+	Production 
+		Drone Factory – produce drones.
+		Processing Factory – process resources.
+		Mine – extract solid resources.
+		Borehole – extract liquid resources and gases. Works only if build under deposits.
+		Farm – produces food. Works only if climate is favorable.
+		Storehouses – enlarge number of resources you can store.
+Connections 
+		Spaceport – receive ships.
+		Exchange – allows to trade.
+		Science – allow you to realize scientific research.
+Defense
+       Power Shield – meteorite shower protection
+       Radiation Shield – solar storm protection
+       Atmospheric Shield – creates favorable climate for farms.
+Energy Control
+  	To control buildings power open Energy Control window.
+      
+
